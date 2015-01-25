@@ -30,7 +30,7 @@
         <a href = '/'> Modelos de Negocio y Comercio Electrónico en la Web </a><br>
         <a href = '/'> Proyecto Fin de Master </a><br>			
         <br><br><br><br>
-        <p style='font-size:16.0pt'><a href = 'matricula.php'> MATRICULA DE ASIGNATURAS </a> </p>	
+        <p style='font-size:16.0pt'><a href = 'matriculaTOKEN.php'> MATRICULA DE ASIGNATURAS </a> </p>	
     </center>
 </body>		
 </html>

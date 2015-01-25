@@ -8,7 +8,9 @@
 <?php
 	session_start();
 	include ("includes/autenticado.php");
+        echo"antes";
 	if (isset($_POST['Envio'])){
+            echo "entra";
 		$matricula = 0;
 		if (isset($_POST['SPW'])) $matricula += 64;
 		if (isset($_POST['SGC'])) $matricula += 32;
